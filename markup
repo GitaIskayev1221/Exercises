@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>h1</h1>
+    <h2>h2</h2>
+    <h3>h3</h3>
+    <h4>h4</h4>
+    <h5>h5</h5>
+    <h6>h6</h6>
+
+
+    <p>This is paragraph</p>
+    <b>This is bold text</b>
+    <br>
+    <i>This is italic text</i>
+    <br>
+    <a href="http://www.google.com">Google Link</a>
+    <br>
+    <a href="https://appleseeds.org.il/">Apple Seed Link</a><br>
+    <a href="http://www.Youtube.com">Youtube Link</a><br>
+    <img src="https://media.istockphoto.com/id/1443562748/photo/cute-ginger-cat.jpg?s=612x612&w=is&k=20&c=XIsgctRSnoHttq5WPwuBAwLmCa8cPeAXXnP2KDcAU3g=" alt="Cat photo"
+    width="250"
+    height="250"><br>
+    <img src="gitaima1.jpeg" alt="My beautiful face lol"
+    width="250"
+    height="250">
+
+  
+
+    <br>   <!-- br tag using for single line break -->
+   
+    <h2>Table</h2>
+
+    
+<!-- table tag defines an HTML table -->
+    <table>     
+        <!-- tr tag defines table row -->
+        <tr> 
+            <!-- th tag defines table header -->
+            <th>Dish</th> 
+            <th>Country</th>
+            <th>Calories</th>
+        </tr>
+        <tr>
+            <!-- td tag defines a table cell -->
+            <td>Pizza</td>
+            <td>Italy</td>
+            <td>500cal</td>
+        </tr>
+        <tr>
+            <td>Falafel</td>
+            <td>Israel</td>
+            <td>800cal</td>
+        </tr>
+    </table>
+
+
+
+
+
+
+
+
+    
+
+
+</body>
+</html>
