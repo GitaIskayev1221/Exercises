@@ -1,0 +1,36 @@
+/* CSS Normelize  */
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Heebo&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital@0;1&display=swap');
+
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
+header{
+    padding: 25px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.List-Item{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.List-Item li a{
+    text-decoration: none;
+    font-size: medium;
+    color: orangered;
+    font-weight: bold;
+    
+}
+
