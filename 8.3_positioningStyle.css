@@ -1,0 +1,41 @@
+
+.one{
+position: absolute;
+border: 3px solid black;
+width:200px;
+height:180px;
+
+}
+
+.two{
+position: absolute;
+border: 3px solid black;
+width:160px;
+height:160px;
+top:120px;
+left:140px;
+background-color: white;
+
+
+}
+
+.three{
+position: absolute;
+border: 3px solid black;
+width: 600px;
+height: 100px;
+background-color: white;
+top:220px;
+
+
+}
+
+.four{
+position: absolute;
+border: 3px solid black;
+left:480px;
+width: 100px;
+height: 400px;
+background-color: white;
+
+}

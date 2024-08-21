@@ -1,0 +1,105 @@
+
+.reg1{
+border: none;
+padding:10px;
+color: white;
+cursor: pointer;
+background-color: rgb(75, 127, 196);
+
+}
+
+.reg1:hover{
+    background-color: rgb(60, 106, 166);
+
+}
+
+.reg2{
+    border: none;
+    padding: 13px;
+    border-radius: 20px;
+    background-color: rgb(50, 174, 50);
+    color: white;
+    cursor: pointer;
+}
+
+.reg2:hover{
+    background-color: rgb(38, 136, 38);
+
+}
+
+.reg3{
+    border: 2px solid red;
+    padding: 10px;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.reg3:hover{
+    background-color:red;
+
+}
+
+.reg4{
+    border:2px solid yellow;
+    padding: 13px;
+    border-radius: 20px;
+    background-color:transparent;
+    cursor: pointer;
+}
+
+.reg4:hover{
+    background-color: yellow;
+}
+
+.su1{
+border: none;
+padding:10px;
+color: white;
+cursor: pointer;
+background-color:rgb(237, 237, 61);
+width:60px;
+
+}
+
+.su1:hover{
+    background-color:rgb(209, 209, 50);
+}
+
+.su2{
+    border: none;
+    padding: 12px;
+    color: white;
+    cursor: pointer;
+    background-color: rgb(202, 54, 101);
+    border-radius: 20px;
+}
+
+.su2:hover{
+    background-color: rgb(168, 40, 80);
+}
+
+.su3{
+border: 2px solid rgb(165, 43, 63);
+padding: 10px;
+background-color: transparent;
+cursor: pointer;
+
+}
+
+
+.su3:hover{
+    background-color: rgb(165, 43, 63);
+}
+
+.su4{
+    border: 2px solid rgb(94, 187, 220);
+    padding: 12px;
+    border-radius: 20px;
+    background-color:transparent;
+    cursor: pointer;
+
+}
+
+.su4:hover{
+    background-color:rgb(94, 187, 220);
+}
