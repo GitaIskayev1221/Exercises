@@ -1,0 +1,65 @@
+
+body{
+    font-family:'Poppins';
+    background-image: url(https://files.oaiusercontent.com/file-6Fxn8XlJGJHPcpQS4axRiFjS?se=2024-08-15T10%3A53%3A09Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D19dc0b12-7060-4431-a77f-2bf2ed155af6.webp&sig=yAzILTYOB8JYfScnFa%2BxH64J3TUmOVDvn5G4sRkrQWs%3D);
+    background-repeat: no-repeat;
+    
+}
+
+ul{
+    display: flex;
+    justify-content:space-between;
+    align-items:end;
+}
+
+ul,li{
+    list-style: none;
+}
+
+
+h1{
+    text-align: center;
+}
+
+
+main{
+    text-align: center;
+}
+
+.Card1{
+    border: 1px solid black;
+    width: 200px;
+    height: 300px;
+    background-color: rgb(233, 187, 70);
+    box-shadow: 10px 5px 5px rgb(91, 88, 88);
+    text-align: center;
+
+}
+
+
+.Card2{
+    border: 1px solid black;
+    width: 200px;
+    height: 300px;
+    background-color: rgb(233, 187, 70);
+    box-shadow: 10px 5px 5px rgb(91, 88, 88);
+    text-align: center;
+
+}
+
+.hero{
+    display: flex;
+    justify-content:center;
+    gap: 15px;
+    
+  
+    
+}
+
+
+
+
+
+
+
+

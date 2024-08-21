@@ -1,0 +1,20 @@
+
+
+.hello1{
+    border: 0.5px solid red;
+    border-radius: 5px;
+    font-size: large;
+}
+
+.hello2{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.hello3{
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    box-shadow: 10px 5px 5px rgb(91, 88, 88);
+}
+

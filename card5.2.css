@@ -1,0 +1,32 @@
+
+body{
+    font-family:'Poppins';
+}
+section{
+    border: 1px solid #ffc0cb;
+    width: 200px;
+    height: 300px;
+    background-color: #ffc0cb;
+    box-shadow: 10px 5px 5px rgb(91, 88, 88);
+    text-align: center;
+
+}
+
+h1{
+    font-size: medium;
+    
+}
+
+p{
+    font-size: small;
+    margin: auto;
+    padding-left: 1px;
+    padding-right: 1px;
+}
+
+a{
+    color: rgb(5, 8, 8);
+    text-decoration: none;
+    font-weight: bold;
+
+}

@@ -1,0 +1,24 @@
+
+body{
+    font-family: 'Poppins';
+}
+
+
+.navBar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:pink;
+}
+
+.navItem{
+    list-style: none;
+    display: flex;
+    justify-content:space-between;
+    gap:20px;
+    list-style: none;
+}
+
+.navBar , a{
+text-decoration: none;
+}
