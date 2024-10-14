@@ -1,0 +1,56 @@
+
+
+body{
+    background-image: url(./DALL·E\ 2024-10-11\ 21.29.27\ -\ A\ background\ image\ in\ the\ style\ of\ Minecraft\,\ but\ with\ a\ candy\ world\ theme.\ Replace\ the\ grassy\ landscape\ with\ fields\ of\ candy\ canes\,\ lollipops\,\ and\ gi.webp);
+    background-size:cover;
+   
+}
+
+
+.button {
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+    align-items: center;
+    height:100vh;
+
+}
+
+button {
+    padding: 20px 40px;
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    background-color: #FF6384; 
+    border: 5px solid #e63946; 
+    border-radius: 15px;
+    text-shadow: 2px 2px 5px #6A1B9A;
+    box-shadow: 0 8px #9C27B0; 
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+button:hover {
+    background-color: #FF77A9; 
+    box-shadow: 0 5px #9C27B0;
+    transform: translateY(-3px); 
+}
+
+button:active {
+    background-color: #FF4D7A;
+    box-shadow: 0 2px #9C27B0;
+    transform: translateY(2px); 
+}
+
+button::before {
+    content: '';
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    right: -10px;
+    bottom: -10px;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.2), transparent);
+    border-radius: 20px;
+    z-index: -1;
+}
